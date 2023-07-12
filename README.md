@@ -5,8 +5,11 @@
 This repository primarily contains notes and documentation about OpenAI's Code
 Interpreter. Important files include:
 
-- `system_prompt.md`: A file containing the system prompt for the Code
-  Interpreter.
+- `system_prompt.md`: the system prompt for the Code Interpreter.
+- `system.md`: details about the system environment where
+  the code interpreter operates, including information about the OS,
+- processor, RAM, and environment variables.
+- `env`: the system environment variables.
 - `requirements.txt`: A list of Python package dependencies required for Code
   Interpreter.
 - `dev_scripts`: A directory containing utility scripts that assist in the
