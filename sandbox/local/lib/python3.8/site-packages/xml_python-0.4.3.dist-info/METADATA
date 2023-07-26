@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: xml-python
+Version: 0.4.3
+Summary: A library for making Python objects from XML.
+Home-page: https://xml_python.readthedocs.io/
+Author: Chris Norman
+Author-email: chris.norman2@googlemail.com
+License: MPL
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
+Requires-Dist: attrs
+
+A library for making Python objects from XML.
+
+
